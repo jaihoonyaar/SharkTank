@@ -57,11 +57,6 @@ Application.java
 schema.sql
 data.sql
 
-yaml
-Copy
-Edit
-
----
 
 ## 📈 Future Enhancements
 
