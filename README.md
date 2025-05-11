@@ -68,21 +68,3 @@ data.sql
 
 ---
 
-## 👥 Team Members
-
-- Jai Prakash Rai  
-- Rishabh Yadav  
-- Anshuman Dey  
-- Snehasish Saha
-
----
-
-## 🧑‍🏫 Guide
-
-**Prof. (Dr.) Subro S. Thakur**
-
----
-
-## 📄 License
-
-This project is created for academic purposes as part of the 6th Semester CSE curriculum (PW-CS 681).
